@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "title": "Webpack",
+        "description": "Webpack is a module bundler."
+    },
+    {
+        "id": 1,
+        "title": "React",
+        "description": "React makes it painless to create interactive UIs."
+    },
+    {
+        "id": 2,
+        "title": "Redux",
+        "description": "Redux is a predictable state container for Javascript."
+    },
+    {
+        "id": 3,
+        "title": "React-Redux",
+        "description": "React-Redux is a library to easily use redux with react."
+    },
+    {
+        "id": 4,
+        "title": "React-Thunk",
+        "description": "React-Thunk middleware allows you to write action classes."
+    },
+    {
+        "id": 5,
+        "title": "ESLint",
+        "description": "ESLint is an open source Javascript linting utility."
+    },
+    {
+        "id": 6,
+        "title": "Babel",
+        "description": "Babel has support for latest version of javascript."
+    }
+]
